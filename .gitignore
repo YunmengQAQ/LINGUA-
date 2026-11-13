@@ -1,0 +1,29 @@
+# Local user data and secrets
+settings.json
+*.log
+.env
+.env.*
+
+# Packaged binaries and release artifacts
+LINGUA.exe
+LINGUA-Setup-*.exe
+*.zip
+release/
+dist/
+out/
+
+# Dependencies
+node_modules/
+
+# Test and screenshot artifacts
+desktop/tests/
+shots/
+
+# OS and editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Local shortcuts
+*.lnk

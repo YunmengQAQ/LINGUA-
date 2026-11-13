@@ -1,0 +1,10 @@
+{
+  "name": "lingua-desktop",
+  "productName": "LINGUA",
+  "version": "1.0.0",
+  "description": "LINGUA real-time translation desktop app",
+  "main": "main.js",
+  "author": "LINGUA contributors",
+  "license": "MIT",
+  "private": true
+}
